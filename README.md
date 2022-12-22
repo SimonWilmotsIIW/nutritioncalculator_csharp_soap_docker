@@ -10,5 +10,5 @@
 * Run `consume_nutritioncalculator.sh` of run `node nutritioncalculator_client/index.js`
 
 ## Demo
-*Demo van de WSDL met Wizdler*  
-[![Demo video]()](/media/soap_demo.mp4 "Soap Demo")
+*Demo van WSDL met Wizdler*  
+![Demo video](/media/soap_demo.gif "Soap Demo")
